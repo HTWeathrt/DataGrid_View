@@ -1,0 +1,7 @@
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\DataGrid_WPF.csproj.AssemblyReference.cache
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\DataGrid_Fast\FastGridControl.g.cs
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\App.g.cs
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\DataGrid_WPF_MarkupCompile.cache
+C:\Users\ken\source\repos\DataGrid_WPF\DataGrid_WPF\obj\Debug\DataGrid_WPF_MarkupCompile.lref
